@@ -1,7 +1,7 @@
 <h1 align="center">Salom 👋, men Sanjarbek Fayzullayev</h1>
 <h3 align="center">O‘zbekistonlik Flutter dasturchisi</h3>
 
-<p align="left"> <img src="https ://komarev.com/ghpvc/?username=sanjarbekfayzullayev&label=Profile%20views&color=0e75b6&style=flat" alt="sanjarbekfayzullayev" /> </p> <p
+<p align="left"> <img src="[https ://komarev.com/ghpvc/?username=sanjarbekfayzullayev&label=Profile%20views&color=0e75b6&style=flat](https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png)" alt="sanjarbekfayzullayev" /> </p> <p
 
 align="left"> <a href="https:// github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjarbekfayzullayev" alt="sanjarbekfayzullayev" /></a> </p>
 
