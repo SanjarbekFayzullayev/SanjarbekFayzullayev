@@ -1,15 +1,15 @@
-## Hi, I'm [Sanjarbek!](https://www.instagram.com/fayzullayevcom/) 👋
+## Hi, I'm [Sanjarbek!](https://www.instagram.com/fayzullayevs.uz/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjarbekfayzullayev&label=Views&color=blue&style=plastic" alt="SanjarbekFayzullayev" /> </p>
 
-<a href="https://www.instagram.com/fayzullayevcom/"><img src="https://github.com/SanjarbekFayzullayev/La-Ziyofat-Restaurant/blob/master/assets/1.png" width="248" height="208" ></a>
+<a href="https://www.instagram.com/fayzullayevs.uz/"><img src="https://github.com/SanjarbekFayzullayev/La-Ziyofat-Restaurant/blob/master/assets/1.png" width="248" height="208" ></a>
 <a href="https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/">
   <img align="left" alt="Sanjarbek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/SanjarbekFayzullayev">
   <img align="left" alt="Sanjarbek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/fayzullayevcom/">
+<a href="https://www.instagram.com/fayzullayevs.uz/">
   <img align="left" alt="Sanjarbek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://t.me/SanjarbekFayzullayev">
@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning more about Flutter and Dart.
 - 💬 Ask me about Flutter/Android.
 - 📱 I build crappy app whenever I get free time, [here](https://play.google.com/store/apps/dev?id=6201008957698378119) are some the application that is available to download.👇
-- 📫 How to reach me: [Instagram - @fayzullayevcom](https://www.instagram.com/fayzullayevcom/)
+- 📫 How to reach me: [Instagram - @fayzullayevs.uz](https://www.instagram.com/fayzullayevs.uz/)
 
 
 [![Linkedin: kharagkunchok](https://img.shields.io/badge/-SanjarbekFayzullayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/)](https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/)
