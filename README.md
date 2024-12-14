@@ -27,7 +27,7 @@
 - 📫 How to reach me: [Instagram - @fayzullayevs.uz](https://www.instagram.com/fayzullayevs.uz/)
 
 
-[![Linkedin: kharagkunchok](https://img.shields.io/badge/-SanjarbekFayzullayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/)](https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/)
+[![Linkedin: kharagkunchok](https://img.shields.io/badge/-SanjarbekFayzullayev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/](https://www.linkedin.com/in/sanjarbek-fayzullayev-%F0%9F%87%B5%F0%9F%87%B8-948a13247/))]([https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/](https://www.linkedin.com/in/sanjarbek-fayzullayev-%F0%9F%87%B5%F0%9F%87%B8-948a13247/))
 [![GitHub codingwithtashi](https://img.shields.io/github/followers/SanjarbekFayzullayev?label=follow&style=social)](https://github.com/SanjarbekFayzullayev)
 
 
