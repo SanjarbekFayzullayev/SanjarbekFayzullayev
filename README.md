@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjarbekfayzullayev&label=Views&color=blue&style=plastic" alt="SanjarbekFayzullayev" /> </p>
 
-<a href="https://www.instagram.com/fayzullayevs.uz/"><img src="https://github.com/SanjarbekFayzullayev/SanjarbekFayzullayev/blob/main/user-photoaidcom-cropped-removebg-preview.png" width="248" height="208" ></a>
+<a href="https://www.instagram.com/fayzullayevs.uz/"><img src="https://github.com/SanjarbekFayzullayev/SanjarbekFayzullayev/blob/main/user-photoaidcom-cropped-removebg-preview.png" width="248" height="248" ></a>
 <a href="https://www.linkedin.com/in/sanjarbek-fayzullayev-948a13247/">
   <img align="left" alt="Sanjarbek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
