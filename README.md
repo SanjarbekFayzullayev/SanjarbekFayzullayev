@@ -88,7 +88,12 @@
 
 
 
-  <br>
-  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+
+
+
+
+
+
+<div>
+  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
